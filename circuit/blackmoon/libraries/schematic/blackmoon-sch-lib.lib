@@ -8,7 +8,7 @@ F0 "R" 80 0 50 V V C CNN
 F1 "CRCW060310K0FKEAC" 0 -500 50 H I C CNN
 F2 "blackmoon-fp-lib:RES_0603" 0 450 50 H I C CNN
 F3 "-" 0 350 50 H I C CNN
-F4 "10k" 150 -50 40 V V C CNN "Friendly Name"
+F4 "10k" 0 0 40 V V C CNN "Friendly Name"
 F5 "Vishay" 0 -600 50 H I C CNN "Manufactor"
 F6 "CRCW0402100KFKED" 0 550 50 H I C CNN "Part Number"
 F7 "10k 1% 0.1W SMD 0603" 0 -400 50 H I C CNN "Description"

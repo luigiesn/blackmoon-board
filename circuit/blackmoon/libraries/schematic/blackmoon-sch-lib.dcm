@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP CRCW060310K0FKEAC
-D 100k 1% 0402
+D 10k 1% 0.1W SMD 0603
 $ENDCMP
 #
 #End Doc Library
