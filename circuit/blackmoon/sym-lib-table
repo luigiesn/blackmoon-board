@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name blackmoon-sch-lib)(type Legacy)(uri ${KIPRJMOD}/libraries/schematic/blackmoon-sch-lib.lib)(options "")(descr ""))
+)
