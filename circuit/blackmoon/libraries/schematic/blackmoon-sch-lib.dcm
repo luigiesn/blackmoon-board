@@ -4,7 +4,7 @@ $CMP CRCW060310K0FKEAC
 D 10k 1% 0.1W SMD 0603
 $ENDCMP
 #
-$CMP LM25011MY_NOPB
+$CMP LM25011
 D 42-V 2-A Constant On-Time Switch Regulator With Adjustable Current Limit HVSSOP-10
 $ENDCMP
 #
