@@ -4,6 +4,10 @@ $CMP CRCW060310K0FKEAC
 D 10k 1% 0.1W SMD 0603
 $ENDCMP
 #
+$CMP IRFS7430TRL7PP
+D 20V 1.2A  N-Channel SOT-23
+$ENDCMP
+#
 $CMP LM25011
 D 42-V 2-A Constant On-Time Switch Regulator With Adjustable Current Limit HVSSOP-10
 $ENDCMP
