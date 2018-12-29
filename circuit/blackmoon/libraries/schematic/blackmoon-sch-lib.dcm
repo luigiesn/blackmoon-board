@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP B340A-13-F
+D 40V 3A Schottky SMA
+$ENDCMP
+#
+$CMP CP1
+D Polarised capacitor
+$ENDCMP
+#
 $CMP CRCW060310K0FKEAC
 D 10k 1% 0.1W SMD 0603
 $ENDCMP
