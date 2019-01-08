@@ -24,4 +24,8 @@ $CMP LMR62421XS
 D 24-Vout 2.1A Step-Up Voltage Regulator WSON6
 $ENDCMP
 #
+$CMP SS2
+D 40V 3A Schottky SMA
+$ENDCMP
+#
 #End Doc Library
